@@ -1,10 +1,8 @@
 # Blogsite
-This is a blog website that i designed for my assignment
-<br>
-https://tharaniesh3.github.io/Blogsite/
+This is a blog website that i designed for my assignment https://tharaniesh3.github.io/Blogsite/
 
 
-## <u>Social Profiles</u> :
+### <u>Social Profiles</u> :
 [Instagram](https://www.instagram.com/__thaxx__/)
 <br>
 <br>
